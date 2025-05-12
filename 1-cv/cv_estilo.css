@@ -9,5 +9,16 @@ h1{
     color: #ffffff;
     font-size: 2.5em;
     text-align: center;
-    text-shadow: #222121 0px 0px 500px;
+    text-shadow: #c3c3c3;
+}
+
+#foto-perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+    border: 5px solid #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s; 
 }
